@@ -1,0 +1,21 @@
+/********************TAG SELECTORS********************/
+
+body {
+  background-color: #5b9aa0;
+}
+
+hr {
+  border-style: double none none;
+  width: 05%;
+  border-color: #b8a9c9;
+  border-width: 5px;
+}
+
+h1 {
+  color: #d6d4e0;
+  font-size: 35px
+}
+
+h3 {
+  color: #d6d4e0;
+}
